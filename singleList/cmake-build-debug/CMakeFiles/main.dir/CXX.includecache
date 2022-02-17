@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/git_repo/clion/singleList/LinkNode.cpp
+cstdio
+D:/git_repo/clion/singleList/cstdio
+LinkNode.h
+D:/git_repo/clion/singleList/LinkNode.h
+malloc.h
+D:/git_repo/clion/singleList/malloc.h
+
+D:/git_repo/clion/singleList/LinkNode.h
+
+D:/git_repo/clion/singleList/main.cpp
+cstdio
+-
+malloc.h
+D:/git_repo/clion/singleList/malloc.h
+LinkNode.h
+D:/git_repo/clion/singleList/LinkNode.h
+
+D:/git_repo/clion/singleList/sqlist.cpp
+stdio.h
+D:/git_repo/clion/singleList/stdio.h
+malloc.h
+D:/git_repo/clion/singleList/malloc.h
+sqlist.h
+D:/git_repo/clion/singleList/sqlist.h
+
+D:/git_repo/clion/singleList/sqlist.h
+
+D:/git_repo/clion/singleList/unionSet.cpp
+stdio.h
+D:/git_repo/clion/singleList/stdio.h
+sqlist.h
+D:/git_repo/clion/singleList/sqlist.h
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/git_repo/clion/circleList/CircularLinkList.h
+
+D:/git_repo/clion/circleList/main.cpp
+CircularLinkList.h
+D:/git_repo/clion/circleList/CircularLinkList.h
+cstdio
+D:/git_repo/clion/circleList/cstdio
+

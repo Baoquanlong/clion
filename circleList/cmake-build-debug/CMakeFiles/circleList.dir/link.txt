@@ -1,0 +1,3 @@
+"F:\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\circleList.dir/objects.a
+D:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\circleList.dir/objects.a @CMakeFiles\circleList.dir\objects1.rsp
+D:\MinGW\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\circleList.dir/objects.a -Wl,--no-whole-archive -o circleList.exe -Wl,--out-implib,libcircleList.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\circleList.dir\linklibs.rsp
