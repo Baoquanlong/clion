@@ -1,0 +1,3 @@
+D:/git_repo/clion/Strings/cmake-build-debug/CMakeFiles/Strings.dir
+D:/git_repo/clion/Strings/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/git_repo/clion/Strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
