@@ -4,21 +4,12 @@ set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
 
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
-  )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/git_repo/clion/Strings/Strings.cpp" "D:/git_repo/clion/Strings/cmake-build-debug/CMakeFiles/Strings.dir/Strings.cpp.obj"
-  "D:/git_repo/clion/Strings/main.cpp" "D:/git_repo/clion/Strings/cmake-build-debug/CMakeFiles/Strings.dir/main.cpp.obj"
-  )
-set(CMAKE_CXX_COMPILER_ID "GNU")
-
-# The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
   )
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/baoquanlong/Public/codeRepo/clion/Strings/Strings.cpp" "CMakeFiles/Strings.dir/Strings.cpp.o" "gcc" "CMakeFiles/Strings.dir/Strings.cpp.o.d"
+  "/home/baoquanlong/Public/codeRepo/clion/Strings/main.cpp" "CMakeFiles/Strings.dir/main.cpp.o" "gcc" "CMakeFiles/Strings.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links.

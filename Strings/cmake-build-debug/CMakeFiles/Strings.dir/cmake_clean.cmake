@@ -1,10 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Strings.dir/Strings.cpp.obj"
-  "CMakeFiles/Strings.dir/main.cpp.obj"
-  "Strings.exe"
-  "Strings.exe.manifest"
+  "CMakeFiles/Strings.dir/Strings.cpp.o"
+  "CMakeFiles/Strings.dir/Strings.cpp.o.d"
+  "CMakeFiles/Strings.dir/main.cpp.o"
+  "CMakeFiles/Strings.dir/main.cpp.o.d"
+  "Strings"
   "Strings.pdb"
-  "libStrings.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
